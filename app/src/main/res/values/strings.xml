@@ -1,0 +1,29 @@
+<resources>
+
+    // App Name
+    <string name="app_name">Free Litecoin Faucet</string>
+
+    // Facebook Ads
+    <string name="facebook_app_id">5196088403754279</string>
+
+    // Ads Admob
+    <string name="app_id" translatable="false">ca-app-pub-1436196915667879~7620898207</string>
+    <string name="banner_id" translatable="false">ca-app-pub-1436196915667879/1705570006</string>
+    <string name="reward_id" translatable="false">ca-app-pub-1436196915667879/8767300828</string>
+    <string name="interstitial_id" translatable="false">ca-app-pub-1436196915667879/3151170152</string>
+
+    // Ref Faucetpay.io
+    <string name="url_faucetpay">https://faucetpay.io/?r=651179</string>
+
+    // Main Activity
+    <string name="info">CLAIM SATOSHI EVERY 20 MINUTES</string>
+    <string name="time">00:00</string>
+    <string name="past_wallet_address_faucetpay">Wallet address from faucetpay</string>
+    <string name="claim">CLAIM</string>
+
+    // Main Activity Menu
+    <string name="faucetpay">Faucetpay</string>
+    <string name="litecoin_list">Litecoin List</string>
+    <string name="share">Share</string>
+
+</resources>

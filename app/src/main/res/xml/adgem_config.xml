@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <adgem-configuration
+        applicationId="17826"
+        interstitialAdsEnabled="false"
+        rewardedVideoAdsEnabled="false"
+        offerWallEnabled="true|false"
+        lockOrientation="true|false"/>
+</PreferenceScreen>
